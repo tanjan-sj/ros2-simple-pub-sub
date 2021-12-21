@@ -1,0 +1,41 @@
+[0.223s] Invoking command in '/home/jannat/dev_ws/src/py_pubsub': PYTHONPATH=/home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/jannat/dev_ws/build/py_pubsub/build install --prefix /home/jannat/dev_ws/install/py_pubsub --record /home/jannat/dev_ws/build/py_pubsub/install.log --single-version-externally-managed
+[0.415s] running egg_info
+[0.415s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[0.416s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.416s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.416s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.416s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.416s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.417s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.447s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.448s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.448s] running build
+[0.448s] running build_py
+[0.449s] creating /home/jannat/dev_ws/build/py_pubsub/build
+[0.449s] creating /home/jannat/dev_ws/build/py_pubsub/build/lib
+[0.449s] creating /home/jannat/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[0.449s] copying py_pubsub/publisher_member_function.py -> /home/jannat/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[0.449s] copying py_pubsub/subscriber_member_function.py -> /home/jannat/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[0.449s] copying py_pubsub/__init__.py -> /home/jannat/dev_ws/build/py_pubsub/build/lib/py_pubsub
+[0.449s] running install
+[0.450s] running install_lib
+[0.450s] creating /home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.450s] copying /home/jannat/dev_ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.451s] copying /home/jannat/dev_ws/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.451s] copying /home/jannat/dev_ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[0.451s] byte-compiling /home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[0.452s] byte-compiling /home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[0.453s] byte-compiling /home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/__init__.py to __init__.cpython-38.pyc
+[0.453s] running install_data
+[0.453s] creating /home/jannat/dev_ws/install/py_pubsub/share/ament_index
+[0.454s] creating /home/jannat/dev_ws/install/py_pubsub/share/ament_index/resource_index
+[0.454s] creating /home/jannat/dev_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[0.454s] copying resource/py_pubsub -> /home/jannat/dev_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[0.454s] copying package.xml -> /home/jannat/dev_ws/install/py_pubsub/share/py_pubsub
+[0.454s] running install_egg_info
+[0.455s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[0.456s] running install_scripts
+[0.470s] Installing listener script to /home/jannat/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.470s] Installing talker script to /home/jannat/dev_ws/install/py_pubsub/lib/py_pubsub
+[0.471s] writing list of installed files to '/home/jannat/dev_ws/build/py_pubsub/install.log'
+[0.489s] Invoked command in '/home/jannat/dev_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/jannat/dev_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/jannat/dev_ws/build/py_pubsub/build install --prefix /home/jannat/dev_ws/install/py_pubsub --record /home/jannat/dev_ws/build/py_pubsub/install.log --single-version-externally-managed
